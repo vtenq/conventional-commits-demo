@@ -12,7 +12,7 @@ function featureThree() {
 
 /**
  * Very intelligent feature which will give a lot of
- * business value, sometime, in future. Or no. Who knows...
+ * business value, sometime, in future. Or no. Who knows.
  */
 function featureFour() {
   console.log('==__==')
