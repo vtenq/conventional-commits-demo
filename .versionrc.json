@@ -1,0 +1,12 @@
+{
+  "types": [
+    { "type": "feat", "section": "Best Features Everrr" },
+    { "type": "fix", "section": "Fixing Bugs As A Hero" },
+    { "type": "chore", "section": "Chores" },
+    { "type": "docs", "hidden": true },
+    { "type": "style", "hidden": true },
+    { "type": "refactor", "hidden": true },
+    { "type": "perf", "hidden": true },
+    { "type": "test", "hidden": true }
+  ]
+}
