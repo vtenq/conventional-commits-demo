@@ -1,11 +1,11 @@
-function printSuperValue(value) {
+function printSuperValue (value) {
   console.log(value)
 }
 
-function featureTwo() {
+function featureTwo () {
   console.log('I will be your feature number 1!')
 }
 
-function featureThree() {
+function featureThree () {
   console.log('¯\\_(ツ)_/')
 }
