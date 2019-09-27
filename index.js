@@ -9,3 +9,11 @@ function featureTwo() {
 function featureThree() {
   console.log('¯\\_(ツ)_/')
 }
+
+/**
+ * Very intelligent feature which will give a lot of
+ * business value, sometime, in future. Or no. Who knows.
+ */
+function featureFour() {
+  console.log('==__==')
+}
