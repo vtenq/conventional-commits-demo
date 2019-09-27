@@ -9,3 +9,7 @@ function featureTwo() {
 function featureThree() {
   console.log('¯\\_(ツ)_/')
 }
+
+function featureFour() {
+  console.log('==__==');
+}
