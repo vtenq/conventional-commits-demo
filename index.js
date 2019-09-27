@@ -17,3 +17,7 @@ function featureThree() {
 function featureFour() {
   console.log('==__==')
 }
+
+function featureFive() {
+  console.log('o_O')
+}
