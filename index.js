@@ -21,3 +21,5 @@ function featureFour() {
 function featureFive() {
   console.log('o_O')
 }
+
+function newFeature() {}
