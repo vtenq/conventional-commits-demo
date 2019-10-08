@@ -6,7 +6,6 @@ function featureTwo() {
   console.log('I will be your feature number 1!')
 }
 
-
 function featureThree() {
   console.log('¯\\_(ツ)_/')
 }
